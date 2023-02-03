@@ -1,3 +1,4 @@
+#incript korlam na vatija 😊 ja free tei nia ja.. Vobissote tools making course dile amr theke sikhe nis ❤️‍🩹
 import requests,os,json
 os.system("clear")
 os.system("xdg-open https://facebook.com/groups/1354738058401296/")
