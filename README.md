@@ -8,7 +8,7 @@ pkg install git
 
 pip install requests
 
-git clone https://github.com/Black-Cobra404/ip-track
+git clone https://github.com/COBRA-404-CYBER/ip-track
 
 cd ip-track
 
